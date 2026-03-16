@@ -5,4 +5,4 @@ WORKDIR /app
 COPY . .
 
 CMD ["bash"]
-``
+
